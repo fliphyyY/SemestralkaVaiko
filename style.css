@@ -1,0 +1,219 @@
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+    color: #fff;
+    background-color: #478bca;
+}
+
+
+
+#menu {
+    position: absolute;
+    margin-top:80px;
+    left: -15px;
+}
+
+
+.nav-pills>li>a {
+    border-radius: 0px;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+
+.nav-stacked>li+li {
+    margin-top: 0px;
+    margin-left: 0px;
+    border-bottom:1px solid #dadada;
+    border-left:1px solid #dadada;
+    border-right:1px solid #dadada;
+}
+
+.active2 {
+    border-right:4px solid #428bca;
+}
+
+
+
+.obrazky
+{
+    margin-top: 1%;
+    margin-left: 19%;
+
+
+}
+
+
+#dolnyPopis{
+    margin-bottom: 20px;
+    font-size: xx-large;
+    color: maroon;
+    margin-left: 5%;
+}
+
+img {
+    max-width: 70%;
+}
+
+
+.formular-registracia
+{
+
+    max-width: 340px;
+    padding: 10px;
+    margin: auto;
+
+}
+
+
+#emailr, #loginr, #passwordr, #priezviskor, #menor, #loginp, #passwordp, #pocetKusov, #emailo, #priezviskoo, #menoo, #psco, #telefono, #cisloDomuo, #mestoo
+{
+    color: black;
+}
+
+
+#registraciaFormular
+{
+    padding-top: 10px;
+    padding-bottom: 50px;
+
+}
+
+.blue
+{
+    background-color: powderblue;
+}
+
+.menuZoznam
+{
+    margin-top: 20%;
+}
+
+.bluray
+{
+
+    width: 270px;
+    height: 340px;
+
+
+
+    background-color: powderblue;
+
+    color:darkred;
+    overflow: hidden;
+    border-bottom:1px solid black;
+    border-left:1px solid black;
+    border-right:1px solid black;
+    border-top: 1px solid black;
+
+}
+.bluray img
+{
+    margin-top: 20px;
+   width: 180px;
+    height: 248px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+}
+
+.bluray h4 {
+    text-align:center;
+
+
+}
+
+.cena
+{
+
+   float: right;
+margin-right: 5px;
+    margin-top:  10px;
+
+}
+
+.col-lg-2
+{
+    margin-top: 2%;
+    margin-left: 15%;
+}
+
+
+#nadpisAkcne
+{
+    font-weight: bold;
+}
+
+.popisFilm img {
+    max-height: 450px;
+    border-bottom:2px solid gray;
+    border-left:2px solid gray;
+    border-right:2px solid gray;
+    border-top: 2px solid gray;
+    margin-left: 100px;
+
+}
+
+.popisFilm
+{
+margin-top: 60px;
+}
+
+.col-4
+{
+    margin-left: 50%;
+}
+
+.nadpisDetail{
+    font-family: Calibri;
+}
+
+.popisText{
+    font-family:"Open Sans";
+}
+
+#kosikNadpis{
+    font-family: Calibri;
+font-size: 45px;
+color: red;
+
+}
+
+#link
+{
+
+    color: mediumvioletred;
+    margin-left: 50px;
+    font-size: xx-large;
+}
+
+#vypisInfoZakaznik
+{
+    font-size: 20px;
+}
+
+#Foo
+{
+    font-size: 80px;
+    color: yellow;
+    margin-top: 280px;
+
+}
+
+#objednavkaFormular
+{
+    max-width: 450px;
+    padding: 10px;
+    margin: auto;
+}
+
+body {
+    overflow-x:hidden;
+}
